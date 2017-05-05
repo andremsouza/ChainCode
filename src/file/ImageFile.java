@@ -7,7 +7,7 @@ import javax.imageio.ImageIO;
 
 /**
  * esta classe abre um arquivo que contem uma imagem, a partir de "filename".
- * @author andre
+ * @author andre.moreira.souza@usp.br, guilherme.menegali@usp.br
  *
  */
 public class ImageFile {

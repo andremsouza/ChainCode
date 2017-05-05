@@ -2,7 +2,7 @@
  * 
  */
 /**
- * @author andre
+ * @author andre.moreira.souza@usp.br, guilherme.menegali@usp.br
  *
  */
 package io;
